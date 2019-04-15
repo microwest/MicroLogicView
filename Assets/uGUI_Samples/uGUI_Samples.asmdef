@@ -1,0 +1,15 @@
+{
+    "name": "uGUI_Samples",
+    "references": [
+        "GUID:5554a46c15ad46d4cb85d0874429bf22"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
